@@ -1,0 +1,1 @@
+export { AdminAuthController } from "./controller";
